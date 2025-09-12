@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center; 
+    justify-content: space-around;
+    color: white; 
+    background-image: url('https://images.unsplash.com/photo-1686579809662-829e8374d0a8?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+}
+.container{
+    border: 1px solid black;
+    padding: 20px 30px;
+    text-align: start;
+    background: rgba(0, 128, 0, 0.5);   
+    border: none;
+    border-radius: 20px;
+}
+
+.btn{
+    background-color: lightgreen;
+    border:none;
+    padding: 6px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: lightblack;
+
+}
+.pass{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+    font-weight: 900;
+}
