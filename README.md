@@ -8,3 +8,7 @@ npm start
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
 Happy Coding!
+
+
+### Preview 
+![alt text](image.png)

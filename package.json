@@ -1,6 +1,5 @@
 {
   "name": "Solo Project - Password Generator",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~07p/s0qdoj5tu7/head",
   "scripts": {
     "start": "vite",
     "dev": "vite",
